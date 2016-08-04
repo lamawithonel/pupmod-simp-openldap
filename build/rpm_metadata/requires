@@ -1,0 +1,13 @@
+# Drop all Requires, Obsoletes, and Provides statements in here
+
+Requires: pupmod-simp-auditd >= 4.1.0-2
+Requires: pupmod-simp-compliance_markup
+Requires: pupmod-simp-iptables >= 4.1.0-3
+Requires: pupmod-simp-logrotate >= 4.1.0-0
+Requires: pupmod-simp-nscd >= 5.0.0-7
+Requires: pupmod-simp-pki >= 3.0.0-0
+Requires: pupmod-simp-rsyslog >= 5.0.0-0
+Requires: pupmod-simp-simpcat >= 2.0.0-0
+Requires: pupmod-simp-sssd >= 4.0.0-1
+Requires: pupmod-simp-tcpwrappers >= 2.1.0-0
+Obsoletes: pupmod-openldap-test >= 0.0.1
